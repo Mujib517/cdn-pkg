@@ -5,7 +5,7 @@
         "outDir": "lib",
         "esModuleInterop": true,
         "target": "ES5",
-        "module": "commonjs",
+        "module": "ES6",
         "declaration": true,
         "sourceMap": true,
         "skipLibCheck": true,
